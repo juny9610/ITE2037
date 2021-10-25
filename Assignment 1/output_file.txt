@@ -1,0 +1,20 @@
+Today's date: 2021-05-04
+Inquiry Item: distance information
+Hi. Gil Dong Hong !!
+
+Thank you for visiting our Hanyang Tour today.
+We will reply to the following information about the travel distance of South Korea ~ North Korea requested by you.
+
+Distance of
+Country : South Korea
+latitude = 35.907757
+longitude = 127.766922
+-------------------
+Country : North Korea
+latitude = 40.339852
+longitude = 127.510093
+-------------------
+is
+4.439530067953818
+
+The following information will be sent to your email = hello@hanyang.ac.kr. Thank you for using.
